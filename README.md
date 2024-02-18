@@ -1,7 +1,7 @@
 # Spelling Bee Hints Generator
 
 ## Overview
-This is small idiotic utility for those who are struggling with the Spelling Bee of The Times.
+This is a small idiotic utility for those who are struggling with the Spelling Bee of The Times.
 
 It generates hints based on the letters you provide. 
 
